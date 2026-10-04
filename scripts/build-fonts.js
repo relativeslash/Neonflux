@@ -54,7 +54,7 @@ const GROUPS = [
   {
     label: "primary (Latin)",
     query: "family=Orbitron:wght@700&family=Rajdhani:wght@400;600;700&family=Share+Tech+Mono",
-    subsets: new Set(["latin"]),
+    subsets: new Set(["latin", "latin-ext"]),
   },
   {
     label: "Cyrillic companions",

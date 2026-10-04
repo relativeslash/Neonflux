@@ -41,7 +41,7 @@ the aesthetic does not cost legibility:
   testing, `- [>]` waiting, `- [-]` rejected — drawn as the literal character
   in the monospace face rather than as emoji, so a status column stays aligned
   and the colours come from the palette instead of from your font vendor.
-- **Six fonts embedded, Latin and Cyrillic.** Nothing is fetched at launch.
+- **Six fonts embedded, Latin Extended and Cyrillic.** Nothing is fetched at launch.
 - **Zero JavaScript.** Built by remapping Obsidian's own design tokens, so it
   reaches plugins and survives app updates.
 
